@@ -2,48 +2,76 @@ Dallas "The Mastermind":  Balanced health, High Sanity, balanced hunger
 
 Upsides:  Can heal people (With mini-meds, 15 health a mini-med), spawns with telltale heart (To help people up) 5% damage resistance (Because small armour)
 Downsides:  Loses sanity quicker when fighting (a lot quicker), When out of combat, hunger drains slightly faster than usual (Because of lack of training)
-Quote- "Don't be a hero"
+Quote- "Put your game face on, buddies"
 
 
 Chains "The Enforcer":  High Health, slightly lower than average sanity, low hunger
 
 Upsides:  Passive 20% damage resistance,
 Downsides:  The lowered other stats
-Quote- "Get the fuck up!"
+Quote- "Aw, shit, let's play"
+
 
 Wolf "The Technician":  Average Health, Low Sanity, Average Hunger
 
 Upsides: Starts with a drill, used as a weapon, passive 5% damage resistance (Armour), gains a slight damage buff at below 60% health
 Downsides: The Low Sanity, loses sanity even quicker when in combat below 60% health
-Quote-"Damn Drill's busted!"
+Quote-"Dig in - get ready for the storm"
+
 
 Houston "The Ghost":  Slightly below average Health, Average Sanity, Average Hunger
 
 Upsides:  Is able to nullify damage from attacks 25% of the time (Because Dodge)
 Downsides:  Lowered health, no armour like other characters, when armoured, nullify damage chance is reduced by half
-Quote- "Because of training"
+Quote- "Let's show 'em how it's done..."
+
 
 Hoxton "The Fugitive":  Slightly higher Health, Lower than average Sanity, High Hunger
 
 Upsides:  Starts with Novas Shank toothbrush (Never breaks, unlike drill, never lost), 5% damage resistance, gains sanity upon kill
 Downsides:  Loses sanity quicker at night, gains half hunger if item is not a meat
-Quote- "Don't talk back you bloody twat!"
+Quote- "Let's break some necks!"
+
 
 Jimmy "The Unproffesional" Health 200, Sanity 100, Hunger 150 
 
 Upsides: Gains benefits from powder cake, sanity is refilled quickly upon kill, high health, spawns in with cocaine, only for him
 Downsides: Low sanity, wants cocaine so most foods do 75% of intended purpose
-Quote- "WHERE'S THE COCAINE"
+Quote- "That was fucking loud!"
 
-John Wick "THE Professional":  115 Health, 150 Sanity, 150 Hunger (Also has some sweet shades)]-
+
+John Wick "THE Professional":  115 Health, 150 Sanity, 150 Hunger (Also has some sweet shades)
 
 Upsides:  Passive 12% Dodge Chance, Spawns with a pencil (Weapon), grows a small beard 
 Downsides:  Killing decreases sanity by 7, healing is reduced by 20%, cannot shave
 Quote- "I'm thinking I'm back..."
 
+
 Sokol "The Grinder":  175 Health, 135 Sanity, 165 Hunger
 
 Upsides:  10% Damage resistance, Killing enemies restores a small amount of sanity and health (About 15 health, 10 Sanity)
 Downsides:  Frustrated easily (Loses sanity quicker in dark or in combat), Using a weapon costs small amount of hunger
-Quote- "Plan B is also entertaining"
+Quote- "Team work makes the dream work"
+
+
+Sydney "The Anarchist": 90 Health, 115 Sanity, 150 Hunger
+
+Upsides:  45% damage resistance, killing enemies restores sanity
+Downsides:  Less health, after not killing an enemy for a day or so sanity quickly drains
+Quote- "Time to make the world burn"
+
+
+Jiro "The Yakuza":  150 Health, 200 Sanity, 150 Hunger
+
+Upsides:  Half health or lower, increased damage, resistance, and speed, going higher the lower his health.
+Weakness:  Relies on low health
+Quote- "I'll send everyone to hell"
+
+
+Bodhi "The Ex-Presidents Leader": 135 Health, 175 Sanity, 125 Hunger 
+
+Upsides:  Gains small amount of health upon succesful hit (4 Health), 5% resistance
+Downsides:  Lowered overall stats, sanity drains when a hit misses (2 sanity per miss)
+Quote- "Let's do this brothers and sisters"
+
 
