@@ -95,5 +95,23 @@ Downsides:  Lower Sanity, Increased hunger
 Quote- "Let's bite more than we can chew..."
 
 
-Scarface "The Kingpin":  
-Scarface "The Kingpin":  
+Scarface "The Kingpin": 200 Health, 85 Sanity, 90 Hunger 
+
+Upsides: 30% Damage resistance, Restores health upon kill 
+Downsides: Low Sanity, Hunger, increased Sanity drain when fighting 
+Quote-"Say hello to my little friend..!"
+
+
+Clover "The Burglar":  115 Health, 190 Sanity, 150 Hunger
+
+Upsides:  10% Dodge Chance, small health regen
+Downsides:  Hunger drains faster, less health
+Quote- "Silent, deadly, fucking deadly!"
+
+
+Bonnie "The Gambler":  160 Health, 130 Sanity, 175 Hunger
+
+Upsides:  Higher Health and Hunger, 8% damage resistance
+Downsides:  Lowered Sanity, hunger drains faster
+Quote- "Come on then ya Sassenach bastards."
+
