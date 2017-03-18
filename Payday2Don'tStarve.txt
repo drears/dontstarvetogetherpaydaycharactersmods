@@ -1,32 +1,32 @@
-Dallas "The Mastermind":  Balanced health, 250 Sanity, balanced hunger
+Dallas "The Mastermind":  150 Health, 250 Sanity, 150 Hunger
 
 Upsides:  Can heal people (With mini-meds, 15 health a mini-med), spawns with telltale heart (To help people up) 5% damage resistance (Because small armour)
 Downsides:  Loses sanity quicker when fighting (a lot quicker), When out of combat, hunger drains slightly faster than usual (Because of lack of training)
 Quote- "Put your game face on, buddies"
 
 
-Chains "The Enforcer":  High Health, slightly lower than average sanity, low hunger
+Chains "The Enforcer":  250 Health, 150 Sanity, 85 Hunger
 
 Upsides:  Passive 20% damage resistance,
 Downsides:  The lowered other stats
 Quote- "Aw, shit, let's play"
 
 
-Wolf "The Technician":  Average Health, Low Sanity, Average Hunger
+Wolf "The Technician":  150 Health, 85 Sanity, 150 Hunger
 
 Upsides: Starts with a drill, used as a weapon, passive 5% damage resistance (Armour), gains a slight damage buff at below 60% health
 Downsides: The Low Sanity, loses sanity even quicker when in combat below 60% health
 Quote-"Dig in - get ready for the storm"
 
 
-Houston "The Ghost":  Slightly below average Health, Average Sanity, Average Hunger
+Houston "The Ghost":  120 Health, 200 Sanity, 150 Hunger
 
 Upsides:  Is able to nullify damage from attacks 25% of the time (Because Dodge)
 Downsides:  Lowered health, no armour like other characters, when armoured, nullify damage chance is reduced by half
 Quote- "Let's show 'em how it's done..."
 
 
-Hoxton "The Fugitive":  Slightly higher Health, Lower than average Sanity, High Hunger
+Hoxton "The Fugitive":  150 Health, 115 Sanity, 200 Hunger
 
 Upsides:  Starts with Novas Shank toothbrush (Never breaks, unlike drill, never lost), 5% damage resistance, gains sanity upon kill
 Downsides:  Loses sanity quicker at night, gains half hunger if item is not a meat
@@ -114,4 +114,3 @@ Bonnie "The Gambler":  160 Health, 130 Sanity, 175 Hunger
 Upsides:  Higher Health and Hunger, 8% damage resistance
 Downsides:  Lowered Sanity, hunger drains faster
 Quote- "Come on then ya Sassenach bastards."
-
