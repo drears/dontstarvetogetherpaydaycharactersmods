@@ -33,14 +33,14 @@ Downsides:  Loses sanity quicker at night, gains half hunger if item is not a me
 Quote- "Let's break some necks!"
 
 
-Jimmy "The Unproffesional" Health 200, Sanity 100, Hunger 150 
+Jimmy "The Maniac" Health 200, Sanity 100, Hunger 150 
 
 Upsides: Gains benefits from powder cake, sanity is refilled quickly upon kill, high health, spawns in with cocaine, only for him
 Downsides: Low sanity, wants cocaine so most foods do 75% of intended purpose
 Quote- "That was fucking loud!"
 
 
-John Wick "THE Professional":  115 Health, 150 Sanity, 150 Hunger (Also has some sweet shades)
+John Wick "The Hitman:  115 Health, 150 Sanity, 150 Hunger (Also has some sweet shades)
 
 Upsides:  Passive 12% Dodge Chance, Spawns with a pencil (Weapon), grows a small beard 
 Downsides:  Killing decreases sanity by 7, healing is reduced by 20%, cannot shave
@@ -75,7 +75,7 @@ Downsides:  Lowered overall stats, sanity drains when a hit misses (2 sanity per
 Quote- "Let's do this brothers and sisters"
 
 
-Jacket "The Psychopath":  90 Health, 75 Sanity, 150 Hunger
+Jacket "The Sociopath":  90 Health, 75 Sanity, 150 Hunger
 Upsides:  Gains large sanity upon kill, does 2x default damage, hammer
 Downsides:  Other stats are low
 Quote- "The following presentation has been approved for mature audiences only"
