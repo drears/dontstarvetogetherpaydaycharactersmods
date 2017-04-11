@@ -5,9 +5,9 @@ Downsides:  Loses sanity quicker when fighting (a lot quicker), When out of comb
 Quote- "Put your game face on, buddies"
 
 
-Chains "The Enforcer":  250 Health, 150 Sanity, 85 Hunger
+Chains "The Enforcer":  250 Health, 150 Sanity, 85 Hunger   REWORK
 
-Upsides:  Passive 20% damage resistance,
+Upsides:  Passive 20% damage resistance
 Downsides:  The lowered other stats
 Quote- "Aw, shit, let's play"
 
@@ -88,14 +88,14 @@ Downsides:  Loses sanity faster
 Quote- "I'll show you how this shit is done"
 
 
-Dragan "The Inflitrator":  150 Health, 100 Sanity, 150 Hunger
+Dragan "The Inflitrator":  150 Health, 100 Sanity, 150 Hunger  REWORK
 
 Upsides:  Has own cleaver knife, Lower Sanity Loss
 Downsides:  Lower Sanity, Increased hunger
 Quote- "Let's bite more than we can chew..."
 
 
-Scarface "The Kingpin": 200 Health, 85 Sanity, 90 Hunger 
+Scarface "The Kingpin": 200 Health, 85 Sanity, 90 Hunger    (Kingpin Injector?)
 
 Upsides: 30% Damage resistance, Restores health upon kill 
 Downsides: Low Sanity, Hunger, increased Sanity drain when fighting 
