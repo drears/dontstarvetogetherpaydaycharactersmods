@@ -5,14 +5,14 @@ Downsides:  Loses sanity quicker when fighting (a lot quicker), When out of comb
 Quote- "Put your game face on, buddies"
 
 
-Chains "The Enforcer":  250 Health, 150 Sanity, 85 Hunger   REWORK
+Chains "The Enforcer":  250 Health, 130 Sanity, 85 Hunger   REWORK NEEDED
 
-Upsides:  Passive 20% damage resistance
-Downsides:  The lowered other stats
+Upsides:  Passive 20% damage resistance, higher health
+Downsides:  The lowered other stats, .9x movement speed(?)  Increased Hunger Drain(1.3x?)
 Quote- "Aw, shit, let's play"
 
 
-Wolf "The Technician":  150 Health, 85 Sanity, 150 Hunger
+Wolf "The Technician":  150 Health, 85 Sanity, 150 Hunger (Sanity Dependence?)
 
 Upsides: Starts with a drill, used as a weapon, passive 5% damage resistance (Armour), gains a slight damage buff at below 60% health
 Downsides: The Low Sanity, loses sanity even quicker when in combat below 60% health
@@ -61,10 +61,10 @@ Downsides:  Less health, after not killing an enemy for a day or so sanity quick
 Quote- "Time to make the world burn"
 
 
-Jiro "The Yakuza":  150 Health, 200 Sanity, 150 Hunger
+Jiro "The Yakuza":  150 Health, 200 Sanity, 150 Hunger  (Meditation?)
 
-Upsides:  Half health or lower, increased damage, resistance, and speed, going higher the lower his health.
-Weakness:  Relies on low health
+Upsides:  Half health or lower, increased damage, resistance, and speed, going higher the lower his health.  
+Downsides:  Relies on low health for combat potential
 Quote- "I'll send everyone to hell"
 
 
@@ -76,22 +76,22 @@ Quote- "Let's do this brothers and sisters"
 
 
 Jacket "The Sociopath":  90 Health, 75 Sanity, 150 Hunger
-Upsides:  Gains large sanity upon kill, does 2x default damage, hammer
-Downsides:  Other stats are low
+Upsides:  Gains large sanity upon kill, 2x Damage Modifier, hammer (?)
+Downsides:  Stats are low
 Quote- "The following presentation has been approved for mature audiences only"
 
 
-Rust "The Biker":  150 Health, 200 Sanity, 150 Hunger
+Rust "The Biker":  150 Health, 200 Sanity, 150 Hunger  REWORK NEEDED
 
 Upsides:  Passive healing
 Downsides:  Loses sanity faster
 Quote- "I'll show you how this shit is done"
 
 
-Dragan "The Inflitrator":  150 Health, 100 Sanity, 150 Hunger  REWORK
+Dragan "The Inflitrator":  150 Health, 115 Sanity, 175 Hunger  REWORK NEEDED
 
-Upsides:  Has own cleaver knife, Lower Sanity Loss
-Downsides:  Lower Sanity, Increased hunger
+Upsides:  Has own cleaver knife, Lower Sanity Loss (.75x ?), gains health on melee hit (2) ((Cooldown?))
+Downsides:  Lower Sanity, Increased hunger drain (1.1x)
 Quote- "Let's bite more than we can chew..."
 
 
@@ -109,8 +109,8 @@ Downsides:  Hunger drains faster, less health
 Quote- "Silent, deadly, fucking deadly!"
 
 
-Bonnie "The Gambler":  160 Health, 130 Sanity, 175 Hunger
+Bonnie "The Gambler":  160 Health, 130 Sanity, 175 Hunger  REWORK NEEDED
 
 Upsides:  Higher Health and Hunger, 8% damage resistance
-Downsides:  Lowered Sanity, hunger drains faster
+Downsides:  Lowered Sanity, hunger drains faster (1.15x)
 Quote- "Come on then ya Sassenach bastards."
